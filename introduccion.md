@@ -1,0 +1,1 @@
+Cuando hablamos de DevOps nos estamos refiriendo a estrategias de transformación digital y a otras metodologías como el desarrollo ágil.
